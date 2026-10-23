@@ -2,7 +2,7 @@
 
 **Electronics and Communication Engineering undergraduate | Manipal Institute of Technology, India**
 
-I work on projects across antenna design, digital IC design, and PCB development. I am building my experience in analog and RF integrated circuits, with a current focus on asynchronous ADC design in Cadence Virtuoso.
+I work on projects across antenna design, digital/analog IC design, and PCB development. I am building my experience in analog and RF integrated circuits, with a current focus on asynchronous ADC design in Cadence Virtuoso.
 
 ## Selected projects
 
